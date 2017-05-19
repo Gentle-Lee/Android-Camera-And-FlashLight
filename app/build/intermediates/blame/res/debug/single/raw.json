@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\git\\AndroidCameraDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\light_switch_on.mp3",
+        "source": "E:\\git\\AndroidCameraDemo\\app\\src\\main\\res\\raw\\light_switch_on.mp3"
+    },
+    {
+        "merged": "E:\\git\\AndroidCameraDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\light_switch_off.mp3",
+        "source": "E:\\git\\AndroidCameraDemo\\app\\src\\main\\res\\raw\\light_switch_off.mp3"
+    }
+]

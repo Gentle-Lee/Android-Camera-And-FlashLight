@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tommy\.android\build-cache\856429a1e55f16c4a31bef25d19ab6ec0291c2a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tommy\.android\build-cache\253a4e7ab1996cc3f9d670cdda9637e0421f0de4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Tommy\.android\build-cache\9e23c42dddb36a9205880ad663156b635c1b46f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tommy\.android\build-cache\3e3690a8890ff83f06e523947612561b5a2207c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Tommy\.android\build-cache\196daea98bd29a15585907cb5a0b1c19b44887c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Tommy\.android\build-cache\2509ef2d81f838ac6c222c8ba0e8fb7c76c2a0a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Tommy\.android\build-cache\08599f7fa007d88ae6c2a7fe60d0a13e572acb28\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Tommy\.android\build-cache\ce580595aa534c1491156baab1cf52ad73e5d414\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Tommy\.android\build-cache\a08a2402a3cb0af687fe892389f42460032d11c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Tommy\.android\build-cache\25258ba81bf7a424a19bb83695ef9022c71f7a32\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.androidcamerademo.MainActivity
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:16:27-74
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:20:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.CAMERA
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:23:19-57
+permission#android.permission.FLASHLIGHT
+ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:25:5-27:44
+	android:protectionLevel
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:27:9-41
+	android:permissionGroup
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:26:9-77
+	android:name
+		ADDED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml:25:17-61
+uses-sdk
+INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tommy\.android\build-cache\856429a1e55f16c4a31bef25d19ab6ec0291c2a7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tommy\.android\build-cache\253a4e7ab1996cc3f9d670cdda9637e0421f0de4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Tommy\.android\build-cache\9e23c42dddb36a9205880ad663156b635c1b46f5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tommy\.android\build-cache\3e3690a8890ff83f06e523947612561b5a2207c9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Tommy\.android\build-cache\196daea98bd29a15585907cb5a0b1c19b44887c2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Tommy\.android\build-cache\2509ef2d81f838ac6c222c8ba0e8fb7c76c2a0a7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Tommy\.android\build-cache\08599f7fa007d88ae6c2a7fe60d0a13e572acb28\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Tommy\.android\build-cache\ce580595aa534c1491156baab1cf52ad73e5d414\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Tommy\.android\build-cache\a08a2402a3cb0af687fe892389f42460032d11c2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Tommy\.android\build-cache\25258ba81bf7a424a19bb83695ef9022c71f7a32\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tommy\.android\build-cache\856429a1e55f16c4a31bef25d19ab6ec0291c2a7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\AndroidCameraDemo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tommy\.android\build-cache\856429a1e55f16c4a31bef25d19ab6ec0291c2a7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tommy\.android\build-cache\253a4e7ab1996cc3f9d670cdda9637e0421f0de4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Tommy\.android\build-cache\9e23c42dddb36a9205880ad663156b635c1b46f5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tommy\.android\build-cache\3e3690a8890ff83f06e523947612561b5a2207c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Tommy\.android\build-cache\196daea98bd29a15585907cb5a0b1c19b44887c2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Tommy\.android\build-cache\2509ef2d81f838ac6c222c8ba0e8fb7c76c2a0a7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Tommy\.android\build-cache\08599f7fa007d88ae6c2a7fe60d0a13e572acb28\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Tommy\.android\build-cache\ce580595aa534c1491156baab1cf52ad73e5d414\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Tommy\.android\build-cache\a08a2402a3cb0af687fe892389f42460032d11c2\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tommy\.android\build-cache\856429a1e55f16c4a31bef25d19ab6ec0291c2a7\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tommy\.android\build-cache\856429a1e55f16c4a31bef25d19ab6ec0291c2a7\output\AndroidManifest.xml:26:9-47
